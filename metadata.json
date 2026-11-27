@@ -1,0 +1,6 @@
+{
+  "name": "EduBridge AI",
+  "description": "Making quality education accessible to every student, everywhere. Multilingual AI tutor, structured notes, and adaptive quizzes in English and Urdu for underserved and rural communities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
